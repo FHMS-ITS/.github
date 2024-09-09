@@ -1,4 +1,4 @@
-## Hi there 👋
+This page gives an overview of public projects for the IT security research groups at FH Münster University of Applied Sciences. The main page of the group is here: https://fh-muenster.de/it-sicherheit/. 
 
 <!--
 
